@@ -2,6 +2,7 @@
 using namespace std;
 int main()
 {
- cout<<"I am using GITHUB " ;
+ cout<<" Computer " ;
+ cout<<"third year" ;
  return 0;
 }
